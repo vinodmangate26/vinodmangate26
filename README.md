@@ -23,6 +23,8 @@ A Passionate Full Stack Developer from India 💻🚀
 - 🤝 I’m looking for help with **Open to Collaboration**
 - 💬 Ask me about **Web, Android & Databases**
 - 📫 Email: **mangatevinod52@gmail.com**
+- 📄 Know about my experiences [vinod-mangate](https://www.linkedin.com/in/vinod-mangate/)
+
 
 ---
 
