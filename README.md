@@ -19,7 +19,7 @@ A Passionate Full Stack Developer from India 💻🚀
 ## 👨‍💻 About Me
 
 - 🔭 Working on **Gamified Learning Platform for Rural Education**
-- 🌱 Learning **React.js, Node.js, AngularJS, Spring Boot, Tailwind CSS, JSPt**
+- 🌱 Learning **React.js, Node.js, AngularJS, Spring Boot, Tailwind CSS, JSP**
 - 🤝 I’m looking for help with **Open to Collaboration**
 - 💬 Ask me about **Web, Android & Databases**
 - 📫 Email: **mangatevinod52@gmail.com**
