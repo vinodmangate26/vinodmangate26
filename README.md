@@ -140,17 +140,7 @@ A Passionate Full Stack Developer from India 💻🚀
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinodmangate26&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodmangate26&theme=tokyonight"/>
-</p>
-
----
 ## 🧠 Fun Fact
 
 ⚡ I love learning new technologies and building real-world projects.
