@@ -18,10 +18,10 @@ A Passionate Full Stack Developer from India 💻🚀
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **Gamified Learning Platform for Rural Education**
-- 🌱 Learning **React.js, Node.js, AngularJS, Spring Boot, Tailwind CSS, JSP**
+- 💻 Interested in **Full Stack Java Development using Java, Spring Boot, and modern web technologies**
+- 🌱 Exploring **Full Stack Java Development, Spring Boot, Angular, and modern web technologies**
 - 🤝 I’m looking for help with **Open to Collaboration**
-- 💬 Ask me about **Web, Android & Databases**
+- 💬 Ask me about **Java, Spring Boot, Web Development, Android, and Databases**
 - 📫 Email: **mangatevinod52@gmail.com**
 - 📄 Know about my experiences [vinod-mangate](https://www.linkedin.com/in/vinod-mangate/)
 
