@@ -18,7 +18,7 @@ A Passionate Full Stack Developer from India 💻🚀
 
 ## 👨‍💻 About Me
 
-- 💻 Interested in **Full Stack Java Development using Java, Spring Boot, and modern web technologies**
+- 💻 Interested in **Building Full Stack Java Applications**
 - 🌱 Exploring **Full Stack Java Development, Spring Boot, Angular, and modern web technologies**
 - 🤝 I’m looking for help with **Open to Collaboration**
 - 💬 Ask me about **Java, Spring Boot, Web Development, Android, and Databases**
